@@ -1,0 +1,17 @@
+
+/* Documento CSS */
+
+*{
+    margin:0px;
+    padding:0px;
+
+}
+
+
+.uma-div{
+    position: relative;
+    width: 1350 px;
+    margin: 0 auto;
+    height: 500 px;
+    background-color: aqua;
+}
